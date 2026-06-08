@@ -1,0 +1,8 @@
+@import "tailwindcss";
+*{
+  font-family: gilroy;
+}
+
+::selection{
+  color: rgb(215, 138, 107);
+}
